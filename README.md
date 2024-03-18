@@ -1,2 +1,4 @@
 # davsCards
- Link your social media platforms to these cards templates and  make it simple to showcase your online presence, with the flexibility to add more cards responsively.
+davsCards interface:
+
+![image](https://github.com/davl0u/davsCards/assets/150683483/848292e2-831e-4ce4-a044-cbd7ba7068bb)
